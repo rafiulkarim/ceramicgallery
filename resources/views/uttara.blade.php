@@ -37,7 +37,7 @@
                         <p>
                             <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">House-25, Sonargaon Janapath Road, Sector-12, Uttara, Dhaka-1230</span><br>
                             <b>Phone: +88-02-55085970 <br>Mobile: 01926-996065 <br>
-                                10 am 8 pm  <br> Off Day Wednesday</b>
+                                10 am - 8 pm  <br> Off Day Wednesday</b>
                         </p>
                     </div>
                     <div class="contact-map g_map">

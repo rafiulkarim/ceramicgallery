@@ -37,7 +37,7 @@
                         <p>Thanks to the easily adaptable, stylized format of its wall tiles, floor
                             tiles, decors and the warmth and originality sanitary wares and
                             fittings, <b>CERAMIC gallery</b> collections are always an eye-catching
-                            guaranteed success _ Technology is used to infuse them with style
+                            guaranteed success. Technology is used to infuse them with style
                             and sensory appeal in new takes on classic designs and decors with
                             rich contrasts and subtle nuances.</p>
                         <br>

@@ -44,9 +44,7 @@
                             <h1></h1>
                             <p>
                             </p>
-                            <a href="/discount" class="cr-btn cr-btn-lg">
-
-                            </a>
+                            
                         </div>
                     </div>
                 </div>

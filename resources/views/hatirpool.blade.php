@@ -37,12 +37,12 @@
                         <p>
                             <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">13, Paribag, Sonargaon Road, Hatirpool, Dhaka-1000</span><br>
                             <b>Phone: +88-02-9614905 <br>Mobile: 01926-996001 <br>
-                                10 am 8 pm <br> Off Day Tuesday</b>
+                                10 am - 8 pm <br> Off Day Tuesday</b>
                         </p>
                     </div>
-                    <div class="contact-map g_map">
+                    <!-- <div class="contact-map g_map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.1114439257663!2d90.39016651435837!3d23.743404994961825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8be415b1a95%3A0x5cd95c0bd5255081!2sCERAMIC%20gallery!5e0!3m2!1sen!2sbd!4v1616604760906!5m2!1sen!2sbd" width="765" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-lg-2 col-md-2 col-sm-2 col-12">
