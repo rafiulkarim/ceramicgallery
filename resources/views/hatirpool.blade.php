@@ -36,7 +36,7 @@
                         <h5>Hatirpool Branch</h5>
                         <p>
                             <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">13, Paribag, Sonargaon Road, Hatirpool, Dhaka-1000</span><br>
-                            <b>Phone: +88-02-9614905 <br>Mobile: 01926-996001 <br>
+                            <b>Mobile: +880 1926-996155 <br>
                                 10 am - 8 pm <br> Off Day Tuesday</b>
                         </p>
                     </div>

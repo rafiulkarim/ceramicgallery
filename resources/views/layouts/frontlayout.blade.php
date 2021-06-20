@@ -122,7 +122,7 @@
                                                                 <ul class="child">
                                                                     <li class="parent"><a href="#">Category<p class="fa fa-angle-right p-1"></p><span class="expand"></span></a>
                                                                         <ul class="child">
-                                                                            <li><a href="#" nowrap>Wall</a></li>
+                                                                            <li><a href="{{url('/product/wall')}}" nowrap>Wall</a></li>
                                                                             <li><a href="#" nowrap>Floor</a></li>
                                                                         </ul>
                                                                     </li>

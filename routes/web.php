@@ -5,7 +5,7 @@ use App\Http\Controllers\FrontController;
 use App\Http\Controllers\ContactUsController;
 use App\Http\Controllers\SalesDisplayController;
 use App\Http\Controllers\AboutusController;
-
+use App\Http\Controllers\ProductController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -27,3 +27,4 @@ Route::get("/uattra-branch", [SalesDisplayController::class,'uattra_branch'])->n
 Route::get("/chattagram-branch", [SalesDisplayController::class,'chattagram_branch'])->name("chattagram_branch");
 Route::get("/about-ceramic-gallery", [AboutusController::class,'about_ceramic_gallery'])->name("about_ceramic_gallery");
 Route::get("/about-technology-and-design", [AboutusController::class,'about_technology_and_design'])->name("about_technology_and_design");
+Route::get("/product/wall", [ProductController::class, 'wall'])->name('product-wall');
