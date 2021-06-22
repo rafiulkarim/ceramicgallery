@@ -277,13 +277,9 @@
                                 <h5 class="footer-widget-title">Quick Contact</h5>
                                 <ul>
                                     <li>
-                                        <span>Phone</span>
-                                        <p>
-                                            <a href="tel:(+880) 09639 777111">+88-03-1622115</a>
-                                        </p>
                                         <span>Mobile</span>
                                         <p>
-                                            <a href="tel:(+880) 09639 555222">01926-996177</a>
+                                            <a href="tel:(+880) 09639 555222">+880 1926-996155</a>
                                         </p>
                                     </li>
                                     <li>

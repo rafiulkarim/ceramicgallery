@@ -36,7 +36,7 @@
                         <h5>Uttara Branch</h5>
                         <p>
                             <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">House-25, Sonargaon Janapath Road, Sector-12, Uttara, Dhaka-1230</span><br>
-                            <b>Mobile: 01926-996065 <br>
+                            <b>Mobile: +880 1926-996155 <br>
                                 10 am - 8 pm  <br> Off Day Wednesday</b>
                         </p>
                     </div>

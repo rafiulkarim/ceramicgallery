@@ -35,7 +35,7 @@
                         <i class="fa fa-map-marker"></i>
                         <h5>Chattogram Branch</h5>
                         <p>
-                            <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">Rekha Chitra Tower, 110 Nur Ahmed Road, Kazir Dewri, Chattagram</span><br>
+                            <span style="color: rgb(119, 119, 119); font-family: Raleway, sans-serif; letter-spacing: 0.5px; ">Rekha Chitra Tower, 110 Nur Ahmed Road, Kazir Dewri, Chattagram</span>
                             <b> <br>Mobile: +880 1926-996155 <br>
                                 10 am - 8 pm  <br> Off Day Friday</b>
                         </p>
